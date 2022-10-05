@@ -1,4 +1,4 @@
-# Analysis of Electrophysiology Data
+# Module de Neurosciences 2022-2023: Analysis of Electrophysiology data
 
 **Contact**
 - Arthur Leblois:  arthur.leblois@u-bordeaux.fr
