@@ -1,4 +1,4 @@
-# Analysis of Electrophysiology Data
+# Module de Neurosciences 2022-2023: Analysis of Electrophysiology data
 
 **Contact**
 - Arthur Leblois:  arthur.leblois@u-bordeaux.fr
@@ -23,6 +23,11 @@ cover the strict minimum necessary for getting started with numerical computing.
 [Learn Python](https://www.learnpython.org/)
 <br/>
 
-### First class: computing  latency
+### First Lecture: computing the latency of an evoked potential
 Download this file: https://filesender.renater.fr/?s=download&token=13b3e1b3-e6e7-44ab-b5b7-649e67883cf0.
 We will be using NumPy, Matplotlib and Pandas.
+The Jupyter Notebook will be uploaded after the class.
+
+### Second Lecture: EPSP
+Download this file: https://filesender.renater.fr/?s=download&token=c7ebdf29-a095-475f-be9b-c014884c565f
+The Jupyter Notebook will be uploaded after the class.
