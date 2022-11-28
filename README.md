@@ -31,4 +31,4 @@ The Jupyter Notebook will be uploaded after the class.
 The Jupyter Notebook will be uploaded after the class.
 
 ##
-Copyright © 2021 Arthur Leblois – CC-BY 4.0 International license.
+Copyright © 2021 Arthur Leblois – [CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode) licence.
