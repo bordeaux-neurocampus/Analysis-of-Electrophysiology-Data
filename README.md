@@ -29,3 +29,6 @@ The Jupyter Notebook will be uploaded after the class.
 
 ### Second Lecture: EPSP
 The Jupyter Notebook will be uploaded after the class.
+
+##
+Copyright © 2021 Arthur Leblois – CC-BY 4.0 International license.
